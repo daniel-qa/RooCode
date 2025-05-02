@@ -1,0 +1,2 @@
+# RooCode
+AI-assisted development
